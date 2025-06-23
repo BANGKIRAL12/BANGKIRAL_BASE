@@ -1,0 +1,38 @@
+*,
+html {
+
+}
+
+.chat-jalan {
+    font-family: monospace;
+    font-size: 50;
+    background-color: #f4f4f4;
+    animation: color 5s infinite;
+}
+
+.button-chat {
+    width: 500;
+    height: 50;
+    position: relative;
+    left: 0;
+    top: 70;
+    font-size: 45;
+}
+
+.button-grub {
+    width: 500;
+    height: 50;
+    position: relative;
+    left: 0;
+    top: 125;
+    font-size: 45;
+}
+
+.button-comunity {
+    width: 500;
+    height: 50;
+    position: relative;
+    left: 0;
+    top: 185;
+    font-size: 45;
+}
